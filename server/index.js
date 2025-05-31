@@ -19,7 +19,7 @@ import authRoutes from './routes/auth.js';
 import { errorHandler } from './middleware/errorHandler.js';
 import { notFound } from './middleware/notFound.js';
 
-const MONGODB_URL = 'mongodb+srv://shiv1540:ZRihWK3BviV8Ddgu@fullstack.a4js1.mongodb.net/cn_project_database'
+const MONGODB_URL = 'mongodb+srv://shiv1540:ZRihWK3BviV8Ddgu@fullstack.a4js1.mongodb.net/harmonia'
 
 dotenv.config();
 
